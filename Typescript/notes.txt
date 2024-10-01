@@ -1,0 +1,22 @@
+Superset of Javascript 
+Features: 
+    Static typing
+    Code Completion
+    Refactoring
+    Shorthand notations
+Drawbacks:
+    Compilation (convert it to javascript)
+    Discipline in coding 
+    medium to large projects
+
+Types: 
+Number String Boolean Null Undefined Void Object Array Tuples "Any" Never unknown never
+
+Syntax: 
+let variableName: type = value
+
+primitive types : string, number, and boolean 
+
+Type inference: If assigning value at time of intiailising then no need to specify the data type
+
+Don't use "Any" type , very bad practice  
